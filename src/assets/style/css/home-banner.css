@@ -23,10 +23,10 @@
   height: 100%;
 }
 .banner-img{
-    height: calc(100vh -80px);
+    height: calc(100vh - 80px);
     width: 100%;
     object-fit: cover;
-    object-position: top !important;
+    object-position: center !important;
 }
 .awssld__content{
     width: 100% !important;
@@ -52,7 +52,7 @@
     width: 100%;
     position: absolute;
     left: 10px;
-    top: 49%;
+    top: 40%;
     transform: translateY(-50%);
     transition: 0.3s;
     opacity: 0;
@@ -85,5 +85,10 @@
   }
   }
   .awssld__timer.awssld__timer--run{
-    display: none;
+   opacity: 0; 
+  }
+  .banner-cover .btn{
+    padding: 10px 35px;
+    background-color: #1b9ce5;
+    color: #fff;
   }

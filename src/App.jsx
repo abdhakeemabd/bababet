@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
   import { BrowserRouter as Router, Route,Routes}from "react-router-dom";
 import './App.css';
+import './assets/style/aos/aos.css'
 import AOS from 'aos';
 import Home from './component/pages/home';
 import './assets/style/boostrap/bootstrap.css'

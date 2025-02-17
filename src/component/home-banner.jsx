@@ -2,9 +2,9 @@ import React from 'react';
 import AwesomeSlider from "react-awesome-slider";
 import withAutoplay from "react-awesome-slider/dist/autoplay";
 import "react-awesome-slider/dist/styles.css";
-import Home1 from '../assets/images/bg.webp';
-import Home2 from '../assets/images/bg2.webp';
-import Home3 from '../assets/images/bg3.webp';
+import Home3 from '../assets/images/bg.webp';
+import Home2 from '../assets/images/2.webp';
+import Home1 from '../assets/images/3.webp';
 import '../assets/style/css/home-banner.css';
 
 
@@ -19,29 +19,32 @@ function HomeBanner() {
         interval={6000}
       >
         <div className='banner-cover'>
-          <img className='banner-img' src={Home2} alt="Banner 1" />
+          <img className='banner-img' src={Home3} alt="Banner 1" />
           <div className="caption">
            <div className="container">
-            <h1>The Best Kindergarten </h1>
-            <h1>School For Your Child</h1>
+            <h1>Get Your user ID  </h1>
+            <h1>Master Panel Now</h1>
+            <a className='btn' href="wa.me:8003509193">Contact</a>
            </div>
           </div>
         </div>
         <div className='banner-cover'>
-          <img className='banner-img' src={Home1} alt="Banner 2" />
+          <img className='banner-img' src={Home2} alt="Banner 2" />
           <div className="caption">
            <div className="container">
-            <h1>Personalized Learning</h1>
-            <h1>for Every Little Mind</h1>
+            <h1>User ID Avaliable </h1>
+            <h1>Master ID Avaliable</h1>
+            <a className='btn' href="wa.me:8003509193">Contact</a>
            </div>
           </div>
         </div>
         <div className='banner-cover'>
-          <img className='banner-img' src={Home3} alt="Banner 3" />
+          <img className='banner-img' src={Home1} alt="Banner 3" />
           <div className="caption">
            <div className="container">
-            <h1>Nurturing Young Minds</h1>
-            <h1> Building Bright Futures</h1>
+            <h1>Start With BABABET EXCH </h1>
+            <h1> Earn big profit endless profit</h1>
+            <a className='btn' href="wa.me:8003509193">Contact</a>
            </div>
           </div>
         </div>
