@@ -41,3 +41,7 @@
     background-color: #fff;
     color: #000000;
 }
+@media(max-width:567px){
+    .partners-sec .sm-card .btn{
+        padding: 5px 2px;}   
+}

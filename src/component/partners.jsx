@@ -89,7 +89,7 @@ function Partners() {
     </section>
     <section className='partners-sec'>
       <div className="container">
-        <div className="row">
+        <div className="row justify-content-center">
           <div className="col-12" data-aos="fade-down" data-aos-offset="10" >
             <h3 className='text-center mb-3 text-uppercase font-bold'>Our Sites</h3>
           </div>
@@ -100,8 +100,8 @@ function Partners() {
                 <div className="col-6">
                   <img className='logo-img' src={member.image} alt="Logo"  loading='lazy'/>
                 </div>
-                <div className="col-6 align-content-center">
-                 <div className="div px-3">
+                <div className="col-6 align-content-center ps-0 ps-sm-auto">
+                 <div className="div px-md-3">
                   <h6>User Name:</h6>
                   <h6>Password: </h6>
                   <a className='text-decoration-none btn mt-2' href="wa.me:8003509193">Login with demo</a>
