@@ -45,3 +45,12 @@
     .partners-sec .sm-card .btn{
         padding: 5px 2px;}   
 }
+.casion-partners-sec .casino-card{
+    border: 5px solid #b5b4b671;
+    margin: 0px 10px;
+    border-radius: 10px;
+}
+.casion-partners-sec .casino-card img{
+    height: 100px;
+    width: 100%;
+}

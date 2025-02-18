@@ -1,0 +1,46 @@
+.contact-sec{
+    background-color: #020101bd;
+    color: #fff ;
+    
+}
+.contact-sec a{
+    color: #fff !important;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 10px;
+}
+.contact-sec svg{
+    font-size: 25px;
+    color: #1b9ce5;
+}
+
+.contact-card{
+    background-color: #fff;
+    /* box-shadow: 0px 0px 20px 0px #ffffff63; */
+    border-radius: 15px;
+    padding: 30px 40px;
+    color: #000;
+}
+.contact-card .form-control{
+    border-radius: 5px;
+}
+.contact-card label, .contact-card .form-control::placeholder{
+    font-size: 14px;
+    color: #3333339c;
+}
+.contact-card input{
+    box-shadow: none !important;
+}
+.contact-card .btn-submit{
+    width: 100%;
+    background-color:#000000f5;
+    color: #fff;
+    border-radius: 20px;
+}
+.contact-card .btn-submit:hover{
+    background-color:#000;
+    color: #fff;
+}
+.contact-card label{
+    color: #3d3d3d !important;
+}

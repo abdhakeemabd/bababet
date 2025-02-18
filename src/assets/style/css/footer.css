@@ -1,0 +1,31 @@
+.footer-sec{
+    background-color: #000000f5;
+    color: #f3f3f3;
+}
+.footer-sec .logo{
+    max-width: 100%;
+    width: 90px;
+}
+.footer-sec .menu .link-items a{
+    text-decoration: none !important;
+    list-style: none;
+    overflow: hidden;
+    color: #f3f3f3;
+}
+.footer-sec .contact-right a{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+.footer-sec .menu li{
+    padding: 10px 0px;
+}
+.footer-sec .menu li{
+    list-style: none;
+    text-transform: uppercase;
+    color: #fff !important;
+}
+.footer-sec .lp-2{
+    letter-spacing: 10px;
+}
