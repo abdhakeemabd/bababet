@@ -134,11 +134,11 @@ const setting = {
 function Partners() {
   return (
    <>
-    <section className='team-sec'>
+    <section id='partners' className='team-sec'>
       <div className="container">
         <div className="row">
             <div className="col-12 mb-3" data-aos="fade-down" data-aos-offset="10">
-            <h4>Our Partners</h4>
+            <h3 className='text-center text-uppercase'>Our Partners</h3>
             </div>
             <Slider {...settings}>
             {teamMembers.map((member) => (
@@ -154,7 +154,7 @@ function Partners() {
         </div>
       </div>
     </section>
-    <section className='partners-sec'>
+    <section id='sites' className='partners-sec'>
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-12" data-aos="fade-down" data-aos-offset="10" >
@@ -213,7 +213,7 @@ function Partners() {
         </div>
       </div>
     </section>
-    <section className="casion-partners-sec">
+    <section id='casiono' className="casion-partners-sec">
       <div className="container">
         <div className="row">
           <div className="col-12 mb-3">

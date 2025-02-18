@@ -59,7 +59,7 @@ function Contact() {
     }
   };
   return (
-    <section className='contact-sec'>
+    <section id='contact' className='contact-sec'>
       <div className="container">
         <div className="row">
           <div className="col-md-6" data-aos="fade-down" data-aos-offset="10">

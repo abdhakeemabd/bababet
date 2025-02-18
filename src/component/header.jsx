@@ -27,12 +27,11 @@ function Header() {
             <div className="col-lg-9 col-2">
               <nav ref={navRef} className="">
                 <ul className='justify-content-lg-end'>
-                  <li><Link to={"/"}>Home</Link></li>
-                  <li><Link to={"/"}>About</Link></li>
-                  <li><Link to={""}>Partners</Link></li>
-                  <li><Link to={"/"}>Why Us</Link></li>
-                  <li><Link to={"/"}>FAQ</Link></li>
-                  <li><Link to={"/"}>Contact</Link></li>
+                  <li><a href='/'>Home</a></li>
+                  <li><a href='#partners'>Partners</a></li>
+                  <li><a href="#sites">Sites</a></li>
+                  <li><a href='#casiono'>Casiono Partners</a></li>
+                  <li><a href='#contact'>Contact</a></li>
                   <li><a className='btn' href='wa.me:8949555876'>+91 8949555876</a></li>
                 </ul>
               </nav>

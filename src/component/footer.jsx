@@ -15,19 +15,19 @@ function Footer() {
             <h4>Quick Link</h4>
             <ul className='menu'>
               <li className='link-items'>
-              <Link className='link' to={"/"}>Home</Link>
+              <a className='link' href='/'>Home</a>
               </li>
               <li className='link-items'>
-              <Link className='link' to={"/"}>About</Link>
+              <a className='link' href='#partners'>Partners</a>
               </li>
               <li className='link-items'>
-              <Link className='link' to={"/"}>Partners</Link>
+              <a className='link' href='#sites'>Sites</a>
               </li>
               <li className='link-items'>
-              <Link className='link' to={"/"}>Casio Partners</Link>
+              <a className='link' href='#casiono'>Casio Partners</a>
               </li>
               <li className='link-items'>
-              <Link className='link' to={"/"}>Contact</Link>
+              <a className='link' href='#contact'>Contact</a>
               </li>
             </ul>
           </div>
