@@ -64,9 +64,9 @@ function Contact() {
         <div className="row">
           <div className="col-md-6" data-aos="fade-down" data-aos-offset="10">
             <div className="px-3">
-              <h3>Your One-Stope Solution For <br /> All Your Needs</h3>
+              <h3>Your One-Stop Solution For <br /> All Your Needs</h3>
               <div className='mb-4'>
-              Boost yourself in today’s modern market with our comprehensive solutions, best-quality sports betting, advanced tools, and casino services.</div>
+              Enhance your presence in the modern market with our top-quality sports betting, cutting-edge tools, and comprehensive casino solutions.</div>
               <h3 className='mb-3'>Contact Details</h3>
               <div className='mb-3'><IoCall /> <span><a className='' href="tel:+91 8003509193">+91 8003509193 </a></span></div>
               <div className='mb-3'><IoMail /> <span><a className='' href="mailto:bababet247@gmail.com">bababet247@gmail.com </a></span></div>

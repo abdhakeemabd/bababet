@@ -8,6 +8,9 @@ function FAQ() {
     <section className='faq-sec'>
       <div className="container">
         <div className="row">
+          <div className="col-12">
+            <h3 className='mb-3'>Frequently Asked Questions</h3>
+          </div>
           <div className="col-md-7"  data-aos="fade-up" data-aos-offset="10">
           <Accordion slotProps={{ heading: { component: 'h4' } }}>
             <AccordionSummary
@@ -15,10 +18,10 @@ function FAQ() {
               aria-controls="panel1-content"
               id="panel1-header"
             >
-             what is UserID
+             What is UserID
             </AccordionSummary>
             <AccordionDetails>
-              user id provide platform with accessing world all top popular make preditction abd winble deal 
+              User id provide platform with accessing world all top popular make preditction and winble deal 
             </AccordionDetails>
           </Accordion>
           <Accordion slotProps={{ heading: { component: 'h4' } }}>
@@ -27,10 +30,10 @@ function FAQ() {
               aria-controls="panel1-content"
               id="panel1-header"
             >
-             what is UserID
+             What is Master ID and Panel service?
             </AccordionSummary>
             <AccordionDetails>
-              user id provide platform with accessing world all top popular make preditction abd winble deal 
+            Master ID and Panel Service provide customers with a centralized ID for accessing a dashboard (panel) for managing accounts and settings.
             </AccordionDetails>
           </Accordion>
           <Accordion slotProps={{ heading: { component: 'h4' } }}>
@@ -39,11 +42,34 @@ function FAQ() {
               aria-controls="panel1-content"
               id="panel1-header"
             >
-             what is UserID
+            Is my personal information secure?
             </AccordionSummary>
             <AccordionDetails>
-              user id provide platform with accessing world all top popular make preditction abd winble deal 
+            Yes, we prioritize the security and privacy of our users' information, employing robust encryption and security measures to safeguard data. 
             </AccordionDetails>
+          </Accordion>
+          <Accordion slotProps={{ heading: { component: 'h4' } }}>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1-content"
+              id="panel1-header"
+            >
+             Is customer support available for Master ID users?
+            </AccordionSummary>
+            <AccordionDetails>
+            Yes, we provide dedicated customer support to assist you with any inquiries or issues related to your Master ID account.
+            </AccordionDetails>
+          </Accordion>
+          <Accordion slotProps={{ heading: { component: 'h4' } }}>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1-content"
+              id="panel1-header"
+            >
+           What features are included in the Master ID panel?
+            </AccordionSummary>
+            <AccordionDetails>
+            The panel typically includes features such as account linking, profile customization, game library management, and settings optimization.            </AccordionDetails>
           </Accordion>
           </div>
         </div>

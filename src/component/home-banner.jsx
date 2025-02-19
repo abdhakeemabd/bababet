@@ -20,7 +20,7 @@ function HomeBanner() {
       >
         <div className='banner-cover'>
           <img className='banner-img' src={Home3} alt="Banner 1" />
-          <div className="caption">
+          <div className="caption a">
            <div className="container">
             <h1>Get Your user ID  </h1>
             <h1>Master Panel Now</h1>
@@ -30,7 +30,7 @@ function HomeBanner() {
         </div>
         <div className='banner-cover'>
           <img className='banner-img' src={Home2} alt="Banner 2" />
-          <div className="caption">
+          <div className="caption b">
            <div className="container">
             <h1>User ID Avaliable </h1>
             <h1>Master ID Avaliable</h1>
@@ -40,7 +40,7 @@ function HomeBanner() {
         </div>
         <div className='banner-cover'>
           <img className='banner-img' src={Home1} alt="Banner 3" />
-          <div className="caption">
+          <div className="caption c">
            <div className="container">
             <h1>Start With BABABET EXCH </h1>
             <h1> Earn big profit endless profit</h1>

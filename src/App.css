@@ -4,6 +4,8 @@ section, footer{
 @media(max-width:567px){
     section, footer{
         padding: 15px 0px;
+        position: relative;
+        overflow: hidden;
     }
 }
 @media (min-width:567px) and (max-width:992px){
@@ -168,7 +170,35 @@ h1,h2,h3,h4,h5,h6{
     text-overflow: ellipsis;
 }
 .about-img{
+  max-width: 100%;
   max-height: 300px;
   object-fit: cover;
   border-radius: 20px;
+} 
+.about-sec .icons{
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #1b9ce5;
+  color: #fff;
+}
+.about-sec .btn{
+  padding: 10px 15px;
+  color: #fff;
+  background-color: #1b9ce5;
+}
+.faq-sec .css-1808mag-MuiPaper-root-MuiAccordion-root{
+  background-color: #1b9ce5;
+  color: #fff ;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+.faq-sec .css-i4bv87-MuiSvgIcon-root{
+  fill: #fff !important;
+}
+.faq-sec .css-1f1pi2l-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded{
+  border-bottom: 1px solid #fff;
 }

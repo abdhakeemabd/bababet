@@ -39,6 +39,22 @@
     background-color: #1b9ce5;
     padding: 1px 10px 5px;
     color: #fff;
-    margin-top: 10px;
+    margin: 10px 0px;
     border-radius: 10px;
+}
+.footer-sec .whatsapp{
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    background-color: #95ff00;
+    color: #fff !important;
+    font-size: 30px;
+    width: 60px;;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.footer-sec .whatsapp{
 }

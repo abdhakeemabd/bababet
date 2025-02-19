@@ -2,23 +2,28 @@ import React from 'react'
 import { FaInstagram } from "react-icons/fa6";
 import { FaFacebookF } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
-import { FaWhatsapp } from "react-icons/fa6";
+import { FaWhatsapp, FaXTwitter } from "react-icons/fa6";
 
-import Logo from '../assets/images/logo.jpeg'
+
+import Logo from '../assets/images/logo1.jpeg'
 import '../assets/style/css/footer.css'
 function Footer() {
   return (
     <footer className='footer-sec'>
       <div className="container">
+      <a href='wa.me:+91 8003509193' className='whatsapp'>
+        <FaWhatsapp/>
+      </a>
         <div className="row">
           <div className="col-md-5">
             <img className='logo' src={Logo} alt="Logo" />
-            <div className='mt-3'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, odio! Possimus, facere harum. Dicta explicabo incidunt aperiam repudiandae non blanditiis, repellendus eligendi aliquam asperiores ut, recusandae aut autem nulla suscipit!</div>
+            <h5 >Follow Us</h5>
             <div className="scoial-media-link">
               <a target='_blank' href="https://www.instagram.com/invites/contact/?igsh=n7sawc458s95&utm_content=q4c8igg"><FaInstagram /></a>
               <a target='_blank' href="https://www.facebook.com/share/1A5vc9Fbcm/"><FaFacebookF /></a>
               <a target='_blank' href="https://t.me/bababetexch"><FaTelegramPlane /></a>
               <a target='_blank' href="wa.me:8003509193"><FaWhatsapp /></a>
+              <a target='_blank' href=""> <FaXTwitter /></a>
             </div>
           </div>
           <div className="col-md-3 tex-md-center">
@@ -34,7 +39,7 @@ function Footer() {
               <a className='link' href='#sites'>Sites</a>
               </li>
               <li className='link-items'>
-              <a className='link' href='#casiono'>Casio Partners</a>
+              <a className='link' href='#casiono'>Casino Partners</a>
               </li>
               <li className='link-items'>
               <a className='link' href='#contact'>Contact</a>
@@ -62,7 +67,17 @@ function Footer() {
               <li className='link-items'>
               <a target='_blank' href='https://allpanel777.com' className='link' to={"/"}>allpanel 777</a>
               </li>
+              <li className='link-items'>
+              <a target='_blank' href='href="https://tenexch.com"' className='link' to={"/"}>Lotus</a>
+              </li>
+              <li className='link-items'>
+              <a target='_blank' href="https://admin.lotusbook247.com" className='link' to={"/"}>tenexch</a>
+              </li>
             </ul>
+          </div>
+          <div className="col-12">
+          <h6>18+ This game maybe habit forming of financially risky. Play responsibly</h6>
+            <h6>Copyright © 2025 bababetexch.com  All Rights Reserved.</h6>
           </div>
         </div>
       </div>
