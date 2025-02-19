@@ -3,8 +3,8 @@ import AwesomeSlider from "react-awesome-slider";
 import withAutoplay from "react-awesome-slider/dist/autoplay";
 import "react-awesome-slider/dist/styles.css";
 import Home3 from '../assets/images/bg.webp';
-import Home2 from '../assets/images/2.webp';
-import Home1 from '../assets/images/3.webp';
+import Home2 from '../assets/images/bg1.webp';
+import Home1 from '../assets/images/bg2.webp';
 import '../assets/style/css/home-banner.css';
 
 
