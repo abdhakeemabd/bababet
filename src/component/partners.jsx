@@ -11,18 +11,18 @@ import Team5 from '../assets/images/logo/logo5.png';
 import Team6 from '../assets/images/logo/logo6.png';
 import Team7 from '../assets/images/logo/logo7.png';
 import Team8 from '../assets/images/logo/logo8.png';
-import Img1 from '../assets/images/casio/1.jpg';
-import Img2 from '../assets/images/casio/2.jpg';
-import Img3 from '../assets/images/casio/3.jpg';
-import Img4 from '../assets/images/casio/4.jpg';
-import Img5 from '../assets/images/casio/5.jpg';
-import Img6 from '../assets/images/casio/6.jpg';
-import Img11 from '../assets/images/casio/11.jpg';
-import Img22 from '../assets/images/casio/22.jpg';
-import Img33 from '../assets/images/casio/33.jpg';
-import Img44 from '../assets/images/casio/44.jpg';
-import Img55 from '../assets/images/casio/55.jpg';
-import Img66 from '../assets/images/casio/33.jpg';
+import Img1 from '../assets/images/casio/1.webp';
+import Img2 from '../assets/images/casio/2.webp';
+import Img3 from '../assets/images/casio/3.webp';
+import Img4 from '../assets/images/casio/4.webp';
+import Img5 from '../assets/images/casio/5.webp';
+import Img6 from '../assets/images/casio/6.webp';
+import Img11 from '../assets/images/casio/11.webp';
+import Img22 from '../assets/images/casio/22.webp';
+import Img33 from '../assets/images/casio/33.webp';
+import Img44 from '../assets/images/casio/44.webp';
+import Img55 from '../assets/images/casio/55.webp';
+import Img66 from '../assets/images/casio/33.webp';
 const teamMembers = [
   {
     id: 1,
