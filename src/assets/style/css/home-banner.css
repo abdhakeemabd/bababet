@@ -25,7 +25,6 @@
 .banner-img{
     height: calc(100vh - 80px);
     width: 100%;
-    object-position: center !important;
 }
 .awssld__content{
     width: 100% !important;
@@ -80,7 +79,6 @@
     .banner-img{
       height: 500px;
       width: 100%;
-      object-fit: cover;
   }
   }
   .awssld__timer.awssld__timer--run{
