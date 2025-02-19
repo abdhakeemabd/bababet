@@ -1,6 +1,10 @@
 import React from 'react'
+import { FaInstagram } from "react-icons/fa6";
+import { FaFacebookF } from "react-icons/fa";
+import { FaTelegramPlane } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa6";
+
 import Logo from '../assets/images/logo.jpeg'
-import { Link } from "react-router-dom";
 import '../assets/style/css/footer.css'
 function Footer() {
   return (
@@ -10,6 +14,12 @@ function Footer() {
           <div className="col-md-5">
             <img className='logo' src={Logo} alt="Logo" />
             <div className='mt-3'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, odio! Possimus, facere harum. Dicta explicabo incidunt aperiam repudiandae non blanditiis, repellendus eligendi aliquam asperiores ut, recusandae aut autem nulla suscipit!</div>
+            <div className="scoial-media-link">
+              <a target='_blank' href="https://www.instagram.com/invites/contact/?igsh=n7sawc458s95&utm_content=q4c8igg"><FaInstagram /></a>
+              <a target='_blank' href="https://www.facebook.com/share/1A5vc9Fbcm/"><FaFacebookF /></a>
+              <a target='_blank' href="https://t.me/bababetexch"><FaTelegramPlane /></a>
+              <a target='_blank' href="wa.me:8003509193"><FaWhatsapp /></a>
+            </div>
           </div>
           <div className="col-md-3 tex-md-center">
             <h4>Quick Link</h4>

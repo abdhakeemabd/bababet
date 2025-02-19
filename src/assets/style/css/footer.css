@@ -29,3 +29,16 @@
 .footer-sec .lp-2{
     letter-spacing: 10px;
 }
+.footer-sec .scoial-media-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.footer-sec .scoial-media-link a{
+    font-size: 29px;
+    background-color: #1b9ce5;
+    padding: 1px 10px 5px;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 10px;
+}
