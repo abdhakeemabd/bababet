@@ -44,11 +44,11 @@ const teamMembers = [
      image1: Img6, image2: Img44,
       url: 'https://allpanel777.com', username: 'bababetexch', password: 'Bababet2' },
   { id: 7, image: Team7,
-    image1: Img6, image2: Img66,
-     url: 'https://allpanel777.com', username: 'bababetexch3', password: 'Bababet3' },
+    image1: Img4, image2: Img66,
+     url: 'https://tenexch.com', username: 'bababetexch3', password: 'Bababet3' },
   { id: 8, image: Team8,
    image1: Img2, image2: Img22,
-    url: 'https://allpanel777.com', username: 'Bababetexch4', password: 'Bababet4' },
+    url: 'https://admin.lotusbook247.com', username: 'Bababetexch4', password: 'Bababet4' },
 ];
 
 const settings = {

@@ -50,33 +50,33 @@ function Footer() {
             <h4>Our Sites</h4>
             <ul className='menu'>
               <li className='link-items'>
-              <a target='_blank' href='https://www.saffronexch.com' className='link' to={"/"}>saffron exch</a>
+              <a target='_blank' href='https://www.saffronexch.com' className='link'>saffron exch</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href='https://www.diamondexch99.com' className='link' to={"/"}>diamond exch 99</a>
+              <a target='_blank' href='https://www.diamondexch99.com' className='link'>diamond exch 99</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href='https://www.world777.now' className='link' to={"/"}>world 777</a>
+              <a target='_blank' href='https://www.world777.now' className='link'>world 777</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href='https://www.saffron777.com' className='link' to={"/"}>saffron 777</a>
+              <a target='_blank' href='https://www.saffron777.com' className='link'>saffron 777</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href='https://allpanelexch.com' className='link' to={"/"}>ALL</a>
+              <a target='_blank' href='https://allpanelexch.com' className='link'>ALL</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href='https://allpanel777.com' className='link' to={"/"}>allpanel 777</a>
+              <a target='_blank' href='https://allpanel777.com' className='link'>allpanel 777</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href='href="https://tenexch.com"' className='link' to={"/"}>Lotus</a>
+              <a target='_blank' href='https://tenexch.com' className='link'>Lotus</a>
               </li>
               <li className='link-items'>
-              <a target='_blank' href="https://admin.lotusbook247.com" className='link' to={"/"}>tenexch</a>
+              <a target='_blank' href='https://admin.lotusbook247.com' className='link'>tenexch</a>
               </li>
             </ul>
           </div>
           <div className="col-12">
-          <h6>18+ This game maybe habit forming of financially risky. Play responsibly</h6>
+          <h6><span className='text-danger'>18+  </span>This game maybe habit forming of financially risky. Play responsibly</h6>
             <h6>Copyright © 2025 bababetexch.com  All Rights Reserved.</h6>
           </div>
         </div>

@@ -210,3 +210,6 @@ color: #fff;
 border-top: 1.8px solid #ffffff8c;
 border-bottom: 1.8px solid #ffffff8c;
 }
+.rfm-marquee-container  .rfm-child{
+    padding-left: 3px;
+}
