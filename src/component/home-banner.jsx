@@ -24,7 +24,7 @@ function HomeBanner() {
            <div className="container">
             <h1>Get Your user ID  </h1>
             <h1>Master Panel Now</h1>
-            <a className='btn' href="wa.me:8003509193">Contact</a>
+            <a className="btn" href="https://wa.link/66a9vn">Contact</a>
            </div>
           </div>
         </div>
@@ -32,9 +32,9 @@ function HomeBanner() {
           <img className='banner-img' src={Home2} alt="Banner 2" />
           <div className="caption b">
            <div className="container">
-            <h1>User ID Avaliable </h1>
-            <h1>Master ID Avaliable</h1>
-            <a className='btn' href="wa.me:8003509193">Contact</a>
+            <h1>User ID Available </h1>
+            <h1>Master ID Available</h1>
+            <a className="btn" href="https://wa.link/66a9vn">Contact</a>
            </div>
           </div>
         </div>
@@ -43,8 +43,8 @@ function HomeBanner() {
           <div className="caption c">
            <div className="container">
             <h1>Start With BABABET EXCH </h1>
-            <h1> Earn big profit endless profit</h1>
-            <a className='btn' href="wa.me:8003509193">Contact</a>
+            <h1> Earn big profit Endless profit</h1>
+            <a className="btn" href="https://wa.link/66a9vn">Contact</a>
            </div>
           </div>
         </div>

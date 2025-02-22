@@ -11,7 +11,7 @@ function Footer() {
   return (
     <footer className='footer-sec'>
       <div className="container">
-      <a href='wa.me:+91 8003509193' className='whatsapp'>
+      <a href='https://wa.link/66a9vn' className='whatsapp'>
         <FaWhatsapp/>
       </a>
         <div className="row">
@@ -22,7 +22,7 @@ function Footer() {
               <a target='_blank' href="https://www.instagram.com/invites/contact/?igsh=n7sawc458s95&utm_content=q4c8igg"><FaInstagram /></a>
               <a target='_blank' href="https://www.facebook.com/share/1A5vc9Fbcm/"><FaFacebookF /></a>
               <a target='_blank' href="https://t.me/bababetexch"><FaTelegramPlane /></a>
-              <a target='_blank' href="wa.me:8003509193"><FaWhatsapp /></a>
+              <a target='_blank' href="https://wa.link/66a9vn"><FaWhatsapp /></a>
               <a target='_blank' href=""> <FaXTwitter /></a>
             </div>
           </div>

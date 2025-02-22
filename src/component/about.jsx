@@ -13,7 +13,7 @@ function About() {
         <div className="row">
           <div className="col-md-6"  data-aos="fade-up" data-aos-offset="10">
             <h3>About Us</h3>
-            <p>We are the leading Gaming user ID Master ID provider, transforming the gaming experience with innovation and user-focused solutions. Trusted by gamers worldwide, we offer seamless and secure access to elevate your gameplay. Join us and take your gaming to the next level!</p>
+            <p>We are the leading Gaming User ID Master ID provider, transforming the gaming experience with innovation and user-focused solutions. Trusted by gamers worldwide, we offer seamless and secure access to elevate your gameplay. Join us and take your gaming to the next level!</p>
             <div className="row">
               <div className="col-6 mb-2" data-aos="fade-up" data-aos-offset="10">
                 <div className="d-flex align-items-center gap-3">
@@ -40,7 +40,7 @@ function About() {
                </div>
               </div>
               <div className="col-md-6 my-3">
-              <a className='btn' href="wa.me:8003509193">Get Started</a>
+              <a className='btn' href="https://wa.link/66a9vn">Get Started</a>
               </div>
             </div>
           </div>

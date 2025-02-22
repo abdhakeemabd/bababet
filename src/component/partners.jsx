@@ -36,18 +36,18 @@ const teamMembers = [
       url: 'https://www.world777.now', username: 'bababetexch', password: 'Bababet2' },
   { id: 4, image: Team6,
      image1: Img4, image2: Img44,
-      url: 'https://www.saffron777.com', username: 'bababetexch1', password: 'Bababet1' },
+      url: 'https://www.saffron777.com', username: 'bababetexch1', password: 'Bababet2' },
   { id: 5, image: Team5,
      image1: Img5, image2: Img55,
       url: 'https://allpanelexch.com', username: 'bababetexch', password: 'Bababet1' },
   { id: 6, image: Team4,
-     image1: Img6, image2: Img66,
+     image1: Img6, image2: Img44,
       url: 'https://allpanel777.com', username: 'bababetexch', password: 'Bababet2' },
   { id: 7, image: Team7,
     image1: Img6, image2: Img66,
      url: 'https://allpanel777.com', username: 'bababetexch3', password: 'Bababet3' },
   { id: 8, image: Team8,
-   image1: Img6, image2: Img66,
+   image1: Img2, image2: Img22,
     url: 'https://allpanel777.com', username: 'Bababetexch4', password: 'Bababet4' },
 ];
 
@@ -62,7 +62,7 @@ const settings = {
   responsive: [
     { breakpoint: 1024, settings: { slidesToShow: 4 } },
     { breakpoint: 767, settings: { slidesToShow: 3 } },
-    { breakpoint: 567, settings: { slidesToShow: 4 } },
+    { breakpoint: 567, settings: { slidesToShow: 2 } },
   ],
 };
 const casinoSettingLTR = {
@@ -119,10 +119,10 @@ function Partners() {
               <div className="col-md-6 mb-3" data-aos="fade-up" data-aos-offset="10" key={member.id}>
                 <div className="sm-card">
                   <div className="row">
-                    <div className="col-6">
+                    <div className="col-5 col-md-6">
                       <img className="logo-img" src={member.image} alt="Logo" loading="lazy" />
                     </div>
-                    <div className="col-6 align-content-center ps-0 ps-sm-auto">
+                    <div className="col-7 col-md-6 align-content-center ps-0 ps-sm-auto">
                       <div className="px-md-3">
                         <h6>User Name: {member.username}</h6>
                         <h6>Password: {member.password}</h6>
@@ -133,7 +133,7 @@ function Partners() {
                 </div>
               </div>
             ))}
-            <div className="col-md-6 mb-3" data-aos="fade-up" data-aos-offset="10">
+            {/* <div className="col-md-6 mb-3" data-aos="fade-up" data-aos-offset="10">
               <div className="sm-card">
                <div className="row">
                 <div className="col-6">
@@ -164,7 +164,7 @@ function Partners() {
                 </div>
                </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

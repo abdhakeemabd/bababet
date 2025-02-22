@@ -18,10 +18,10 @@ function FAQ() {
               aria-controls="panel1-content"
               id="panel1-header"
             >
-             What is UserID
+             What is User ID
             </AccordionSummary>
             <AccordionDetails>
-              User id provide platform with accessing world all top popular make preditction and winble deal 
+              User ID provide platform with accessing world all top popular make preditction and winble deal 
             </AccordionDetails>
           </Accordion>
           <Accordion slotProps={{ heading: { component: 'h4' } }}>

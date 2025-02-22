@@ -15,9 +15,8 @@
 }
 .team-sec .team-card .team-img{
     width: 100%;
-    height: 60px;
+    height: 85px;
     border-radius: 5px;
-    object-fit: cover;
 }
 .team-sec .team-card .cont{
     padding: 10px 20px;
