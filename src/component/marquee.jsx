@@ -5,7 +5,7 @@ function Marquee1() {
   return (
     <div>
       <Marquee className=''>
-        <span></span> BABABET EXCH is the genuine platform  | make prefiction | win big | 
+        <span></span> BABABET EXCH is the genuine platform  | make prediction | win big | 
     </Marquee>
     </div>
   )
