@@ -32,7 +32,7 @@ function Header() {
                   <li><a href="#sites">Sites</a></li>
                   <li><a href='#casiono'>Casiono Partners</a></li>
                   <li><a href='#contact'>Contact</a></li>
-                  <li className='d-none d-lg-flex'><a className='btn' href='wa.me:8949555876'>+91 8949555876</a></li>
+                  <li className='d-none d-lg-flex'><a className='btn' href='https://wa.link/66a9vn'>+91 8003509193</a></li>
                 </ul>
               </nav>
             </div>
